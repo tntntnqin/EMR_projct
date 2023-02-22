@@ -14,9 +14,9 @@
 * Eclipse
 * Spring STS
 * sql developer
-* Apache Tomcat 9.0
+* Apache Tomcat 9.0  
 
-* Oracle 11g
+* Oracle 11g  
 
 * Java
 * HTML5
